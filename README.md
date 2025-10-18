@@ -33,11 +33,11 @@
 ### 📊 My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Tanmay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TANMAY-G-PROG&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Tanmay's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAY-G-PROG&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TANMAY-G-PROG&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
