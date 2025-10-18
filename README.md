@@ -1,16 +1,57 @@
-# 💫 About Me:
-I'm a Programming geek
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1 align="center">Hi 👋, I'm Tanmay</h1>
+  <h3 align="center">A passionate developer building AI/ML solutions and web applications.</h3>
+</div>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanmay_g_shetty) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ShortburstsSpectrum) 
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on **my Portfolio and a House Price Predictor model.**
+- 🌱 I’m exploring advanced concepts in **AI, Machine Learning, and Web Development.**
+- 📝 I'm following a roadmap to deepen my skills in Python libraries like **Numpy, Pandas, and Scikit-learn.**
+- 💬 Ask me about **React, Node.js, Python, and AI/ML project development.**
+- 📫 How to reach me: **tanmay.121cr7@gmail.com**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=flat-square&logo=bulma&logoColor=white) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=flat-square&logo=singlestore&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![ISTIO](https://img.shields.io/badge/istio-466BB0.svg?style=flat-square&logo=istio&logoColor=white&color=%23466BB0) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=flat-square&logo=kibana&logoColor=white&color=%23005571) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=flat-square&logo=prometheus&logoColor=white&color=%23E6522C) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TANMAY-G-PROG&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TANMAY-G-PROG&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TANMAY-G-PROG&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### 🛠️ Languages and Tools:
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+---
+
+### 📊 My GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Tanmay's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+### 🤝 Connect with Me:
+
+<div align="center">
+  <a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/tanmaya-g-shetty/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="[https://tanmaygshetty.vercel.app/](https://tanmaygshetty.vercel.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TANMAY-G-PROG&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
